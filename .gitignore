@@ -1,4 +1,6 @@
 *
 /*/
 !/Classes/
+!/Classes/*
+!/proj.android-studio/app/jni/Android.mk
 !README.md
